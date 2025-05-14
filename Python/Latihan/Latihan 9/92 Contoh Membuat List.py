@@ -1,0 +1,1 @@
+buah = ["jeruk", "apel", "mangga", "duren"]

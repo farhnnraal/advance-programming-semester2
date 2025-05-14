@@ -1,0 +1,6 @@
+print("Hello World")
+print("Saya sedang belajar Python")
+print("Saya menggunakan Linux")
+print("Saya menggunakan Teks Editor namanya Gedit")
+print('Selamat belajar Python')
+print("Saya Chinese")
